@@ -1,0 +1,16 @@
+{
+    "Discord": {
+        "webhookID": "826372896095993886",
+        "webhookToken": "a05Lc8ipL7qsPv3C8ZjUynC2OQZD5wLDizAm5SHpbZJcNm7lgRGvMB0_T8z2AD0qy3uD",
+        "webhook": "https://discord.com/api/webhooks/826372896095993886/a05Lc8ipL7qsPv3C8ZjUynC2OQZD5wLDizAm5SHpbZJcNm7lgRGvMB0_T8z2AD0qy3uD"
+    },
+    "Dati": {
+        "email": "",
+        "password": "",
+        "link": "https://www.mediaworld.it/search/3060",
+        "availabilityLink": "https://www.mediaworld.it/api/v2/wcs/resources/store/20000/productview/withPartNumbersAndFilter/p-993975",
+        "addressId":"",
+        "itemId":"2613852"
+    }
+}
+
